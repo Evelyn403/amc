@@ -15,7 +15,7 @@ Este projeto apresenta os principais componentes necessários para o funcionamen
 
 É responsável por executar instruções, realizar cálculos e processar as informações. Ele funciona como o centro de processamento do computador.
 
-## 3. Memória RAM #$
+## 3. Memória RAM ##
 
 Armazena temporariamente os dados e programas que estão sendo utilizados. Quanto maior sua capacidade, mais informações podem ser mantidas em uso ao mesmo tempo.
 
