@@ -7,27 +7,27 @@ Este projeto apresenta os principais componentes necessários para o funcionamen
 
 ## 🖥️ Componentes do Computador ## 
 
-1. Placa-mãe
+## 1. Placa-mãe ##
 
 É a principal placa do computador, responsável por conectar os componentes e permitir a comunicação entre eles.
 
-2. Processador (CPU)
+## 2. Processador (CPU) ##
 
 É responsável por executar instruções, realizar cálculos e processar as informações. Ele funciona como o centro de processamento do computador.
 
-3. Memória RAM
+## 3. Memória RAM #$
 
 Armazena temporariamente os dados e programas que estão sendo utilizados. Quanto maior sua capacidade, mais informações podem ser mantidas em uso ao mesmo tempo.
 
-4. Armazenamento (SSD)
+## 4. Armazenamento (SSD) ##
 
 É utilizado para guardar arquivos, documentos, programas e o sistema operacional. O SSD também contribui para uma inicialização mais rápida do computador.
 
-5. Sistema Operacional
+## 5. Sistema Operacional ##
 
 É o software responsável por controlar o funcionamento do computador e permitir a interação do usuário com a máquina. Entre as opções estão Linux e Windows.
 
-6. Periféricos
+## 6. Periféricos ##
 
 São os equipamentos utilizados para interagir com o computador, como teclado, mouse e monitor. Eles permitem inserir informações e visualizar os resultados das atividades.
 
